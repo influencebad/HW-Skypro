@@ -1,0 +1,23 @@
+body {
+    font-size: 24px;
+}
+body {
+    background-image: url('11.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+p.italic {
+    font-style: italic;
+}
+p.bold {
+    font-weight: bold;
+}
+.green {
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
+.aliceblu {
+    color: aliceblue;
+}
